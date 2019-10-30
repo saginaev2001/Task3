@@ -1,0 +1,81 @@
+.left_part{display:inline-flex;
+           flex-wrap:wrap;width:500px;
+height:500px;
+background-color:brown;
+justify-content:center;
+font-size:230%;
+color:white;
+padding-left:20px;
+border:1px solid red;
+align-items:center;}
+h1{padding-top:130px;
+padding-left:25px;}
+.z1{padding-left:80px;}
+.z2{padding-left:160px;}
+ul{padding-left:560px;
+position:absolute;
+top:70px;}
+.right_part h3{display:inline-flex;
+               flex-wrap:wrap;padding-left:720px;
+position:absolute;
+top:20px;
+font-size:25px;}
+.y{color:purple;}
+
+
+
+
+
+.letters div{display:inline-flex;
+flex-wrap:wrap;
+border-radius:50px;
+background-color:brown;
+margin:10px;
+padding-top:5px;
+padding-bottom:5px;
+padding-right:30px;
+padding-left:15px;
+font-size:35px;
+width:5px;
+color:white;
+
+}
+.letters{
+font-size:20px;
+border:1px solid red;
+font-weight:40%;
+overflow-wrap:break-word;}
+
+
+
+
+
+body{
+    background:url("http://backgroundlabs.com/wp-content/uploads/2013/04/subtle-mosaic-pattern.png");
+    margin:0;
+}
+
+a{padding-left:30px;
+  padding-right:30px;
+border:1px;
+background-color:silver;}
+.logo_part{display:flex;}
+.search{padding-top:40px;padding-left:70px;}
+.active{background-color:red;}
+.cards{display:flex;}
+.red{display:flex;}
+.card{border:2px solid red;margin:20px;
+border-radius:7px;
+}
+.title{display:flex;background-color:blue;
+color:white;font-size:92%;}
+.price{display:flex;
+font-size:25px;}
+footer{background-color:black;
+color:white;
+}
+.container{text-align:center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
